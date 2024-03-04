@@ -1,0 +1,1 @@
+{"name":"Local: Decimal_to_binary_using_bitmanip","url":"e:\\CP all codes\\my practices\\Decimal_to_binary_using_bitmanip.cpp","tests":[{"id":1709151573879,"input":"9999999999","output":"101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CP all codes\\my practices\\Decimal_to_binary_using_bitmanip.cpp","group":"local","local":true}
